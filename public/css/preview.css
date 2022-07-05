@@ -1,0 +1,36 @@
+body {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: #7f5a83;
+}
+
+.box {
+  width: 23rem;
+  height: 25rem;
+  padding: 3%;
+  border: solid 1px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: white;
+  font-size: 17px;
+  background-color:#f5f5f5;
+}
+
+.submit__btn {
+  width: 284px;
+  margin-top: 100px;
+  background-color:#4b53bc
+}
+
+.name__input {
+  margin-bottom: 30px;
+}
+.chat__submit{
+  margin-top: 185px;
+}

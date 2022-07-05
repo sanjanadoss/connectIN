@@ -1,0 +1,62 @@
+body {
+  background-color: #f3f2f1;
+  margin: 0;
+}
+
+.main__display {
+  display: grid;
+  grid-template-columns: 40% 60%;
+}
+
+.side__image {
+  background: url('../image/videocall.jpg') no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.buttons {
+  padding: 50px;
+}
+
+.sj__button {
+  background: #4b53bc;
+  color: white;
+  width: 260px;
+  padding: 10px;
+  font-size: 17px;
+}
+.sj__button:hover {
+  background: #363c90 ;
+}
+.join{
+  margin-bottom: 17px;
+}
+button {
+  border: none;
+}
+
+.joinId {
+  display: block;
+  padding: 10px;
+  width: 237px;
+  border: solid 2px;
+  border-color: #363c90;
+}
+.joinId::placeholder{
+  color: #4b53bc;
+}
+.joinId:focus {
+/*  outline-color:#363c90;*/
+outline: none;
+}
+.BigHeading {
+  color: #4b53bc;
+  font-size: 60px;
+  margin-bottom: 2px;
+}
+
+.subHeading {
+  font-size: 25px;
+  margin-top: 10px;
+  color: #000000;
+}
