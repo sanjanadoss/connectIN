@@ -34,3 +34,15 @@
 <img src="https://github.com/sanjanadoss/connectIN/blob/main/screenshots/2.jpg">
 <img src="https://github.com/sanjanadoss/connectIN/blob/main/screenshots/3.jpg">
 <img src="https://github.com/sanjanadoss/connectIN/blob/main/screenshots/4.jpg">
+
+## Installation
+```
+$ cd connectIN
+$ npm install
+$ npm run
+
+```
+
+<p align="center">
+	💗 sanjana doss
+</p>
