@@ -18,7 +18,6 @@
 - ⌨ Socket.io </br>
 - ⌨ Peerjs </br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </img>
 ## Features:
 
 - Homepage to start a new chat room or join an existing one.
@@ -28,7 +27,6 @@
 - Leaving Call
 - Meeting Chat
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </img>
 ## 💽 Screenshots:
 <img src="https://github.com/sanjanadoss/connectIN/blob/main/screenshots/1.jpg">
 <img src="https://github.com/sanjanadoss/connectIN/blob/main/screenshots/2.jpg">
